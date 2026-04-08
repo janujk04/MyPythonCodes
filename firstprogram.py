@@ -16,6 +16,3 @@ if a > b:
 else:
     largest = b
 print("the largest number is", largest)
-switcher = {
-
-	
